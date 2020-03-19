@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<!--
+    studente: Lorenzo Simoni
+    matricola: 549507
+    corso: codifica testi 2019-20
+-->
+<radice>
+    documento di testo XML
+    <figlio n="1">
+        contenuto del figlio, si può procedere all'infinito
+        <nipote>
+            contenuto nipote
+        </nipote>
+    </figlio>
+</radice>
