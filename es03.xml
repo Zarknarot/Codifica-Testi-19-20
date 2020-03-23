@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- VERSIONE CORRETTA -->
+<text>
+    il primo xml con validazione
+    <child>figlio di text</child>
+    <sibling>fratello di child</sibling>
+</text>
+<!-- Ho aggiunto due elementi figli di text, child e sibling,
+che sono elementi fratelli
+
+VERSIONE SBAGLIATA
+
+<text>
+    il primo xml con validazione
+</text>
+<text />
+
+OUTPUT DI ERRORE XMLLINT
+es03.xml:5: parser error : Extra content at the end of the document
+<text />
+^
+<text /> È un elemento vuoto che non serve, quindi lo eliminiamo
+-->
