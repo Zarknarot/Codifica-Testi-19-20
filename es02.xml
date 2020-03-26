@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    studente: Lorenzo Simoni
+    matricola: 549507
+    corso: codifica testi 2019-20
+-->
 
 <choice>
     <sic> testo con <cor>errore </sic>
