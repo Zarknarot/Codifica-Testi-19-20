@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- VERSIONE CORRETTA -->
-<text>
-    il primo xml con validazione
-    <child>figlio di text</child>
-    <sibling>fratello di child</sibling>
-</text>
-<!-- Ho aggiunto due elementi figli di text, child e sibling,
+<root>
+    <text>
+        il primo xml con validazione
+        <child>figlio di text</child>
+        <sibling>fratello di child</sibling>
+    </text>
+    <text />
+</root>
+<!-- Ho aggiunto l'elemento root e due elementi figli di text, child e sibling,
 che sono elementi fratelli
 
 VERSIONE SBAGLIATA
@@ -19,5 +22,5 @@ OUTPUT DI ERRORE XMLLINT
 es03.xml:5: parser error : Extra content at the end of the document
 <text />
 ^
-<text /> È un elemento vuoto che non serve, quindi lo eliminiamo
+ci deve essere un solo elemento root che contiene i due tag text
 -->
