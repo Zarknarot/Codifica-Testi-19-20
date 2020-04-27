@@ -1,0 +1,10 @@
+<!--
+    studente: Lorenzo Simoni
+    matricola: 549507
+    corso: codifica testi 2019-20
+-->
+
+<!--bisogna dichiarare sempre gli elementi presenti 
+con la giusta parentela-->
+<!ELEMENT root (figlio)>
+<!ELEMENT figlio (#PCDATA)>

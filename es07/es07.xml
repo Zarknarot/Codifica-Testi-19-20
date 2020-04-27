@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!--
+    studente: Lorenzo Simoni
+    matricola: 549507
+    corso: codifica testi 2019-20
+-->
+<!DOCTYPE root SYSTEM "./def07.dtd">
+
+<root>
+    <figlio>
+        testo
+    </figlio>
+</root>
