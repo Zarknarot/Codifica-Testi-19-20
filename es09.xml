@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    studente: Lorenzo Simoni
+    matricola: 549507
+    corso: codifica testi 2019-20
+-->
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.teic.org/ns/1.0">
+    <teiHeader xml:lang="it">
+        <fileDesc>
+            <titleStmt>
+                <title>Fate/Requiem: versione elettronica</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>L. Simoni</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <date>2020-05-02</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Fate/Requiem</title>
+                    <author>Meteor Hoshizora</author>
+                    <publisher>TYPE-MOON BOOKS</publisher>
+                    <date>2018-12-31</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text xml:lang="en">
+
+        <body>
+
+            <head>Prologue</head>
+
+            <p>People have taken to calling me “the Reaper”. Only once have I ever been thanked for my work.</p>
+
+            <p>This was awful. This had to have been one of the worst nights of my life.</p>
+
+            <p>My pursuers had grown in number once again. They were dividing, at an incredible rate. Monsters who lived
+                only to separate humans by component parts; no matter how many I cut down, I couldn’t stem the tide.</p>
+
+            <p>The effects of the Body Augmentations I’d equipped to my own body had long faded. The fetish charms of
+                which
+                I’d prepared so many, into which I’d stockpiled so much mana, had all been expended. My heightened
+                eyesight, my
+                improved cardiopulmonary functions and all the rest were now ragged and exhausted, barely at the level
+                of an
+                ordinary human. All that I had left to rely on now was my own flesh and bone, my own blood and guts: the
+                body that I’d somehow managed to keep intact for these fourteen years.</p>
+
+            <p>That, and the lessons that had been carved into my heart by a needle of regret.</p>
+
+            <p>The Material Barrier that coated every inch of my skin had dwindled to its base parameters. A single
+                solid
+                hit would be enough to blow me to pieces, like a plate dropped on the floor. But I had a strange
+                premonition
+                that all this was only a prelude to what was waiting for me; to what would really make this the worst
+                night of my
+                life.</p>
+
+            <p>I sprinted through alleyways, drenched in muddy water, covered in unreclaimed garbage. Once, worshippers
+                would take this road to reach Kanda Shrine. I tumbled down one of the narrow, steep sets of stone stairs
+                that
+                split off into innumerable branches. As I did so, I landed a flying kick on the behinds of the two men
+                ahead of
+                me.
+                The uninvited guests.</p>
+
+            <p><q>Ugh, we still not at the harbour? My heart’s about to damn well burst, girl! I’m gonna drop dead right
+                    here!</q></p>
+
+            <p>One of the men tilted his neck to look at me.</p>
+
+            <p><q>You know damn well you aren’t! If you’re gonna live as long as you have, you should try to have the
+                    courtesy to scrape together a century or two’s worth of wisdom! Or if you can’t do that, at least
+                    just shut up and run!</q></p>
+
+            <p><q>Hey now, hey now! If I’m ever gonna put a sock in it, it’ll be when I go meet the Buddha! You could
+                    cut my
+                    head off right now and my mouth would still be chatterin’!</q></p>
+
+            <p><q>Like hell it would, because I’d tie it shut myself! With a good metre or two of wire!</q></p>
+
+            <p>How many dozens of times had he made some dumb immortality gag? It had gone beyond getting on my nerves.
+                He
+                knew better than anyone that he could be carved to pieces or shot full of holes, and it still wouldn’t
+                be enough
+                to kill him. Although, for all that, he was in almost as sorry a state as I was right now.</p>
+
+            <p>Even in this day and age, when immortality was hardly a rarity, he was still making me listen to his
+                nonsense. And what was he doing talking about meeting the Buddha anyway, when he was a Jew?</p>
+
+            <p><q>Just shut up and keep moving!</q></p>
+
+            <p><q>…Understood.</q> The other man nodded. His partner skidded as he rounded a corner, almost toppling,
+                and he
+                reached out to grab his belt, righting him as naturally as if he were taking hold of a jib sheet.</p>
+
+            <p><q>Once we reach the docks, they cannot best us.</q></p>
+
+            <p>His wild black hair and unshaven beard carried the smell of the deep. It was something wholly unlike this
+                town’s artificial landscapes: the scent of real sea breezes and real shafts of sunlight, carved deep
+                into his soul.</p>
+
+            <p><q>Understood. I’m counting on you, Captain.</q></p>
+
+            <p>His response was silence.</p>
+
+            <p>The starkness of the difference between himself and his companion still took me aback. Could it be that
+                sailors simply disliked wasting words? I didn’t think so. He likely just didn’t trust me yet. In any
+                case, though, I
+                was glad that I had not made an enemy of this strong, silent man of the sea. Things could have easily
+                have gone
+                differently.</p>
+
+            <p>And besides, I couldn’t deny that I had found something unexpectedly endearing in the twin grey flames
+                burning beneath his chiselled brow.</p>
+        </body>
+    </text>
+</TEI>
