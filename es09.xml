@@ -36,7 +36,8 @@
         <body>
 
             <head>Prologue</head>
-
+            
+            <div>
             <p>People have taken to calling me “the Reaper”. Only once have I ever been thanked for my work.</p>
 
             <p>This was awful. This had to have been one of the worst nights of my life.</p>
@@ -71,20 +72,20 @@
                 me.
                 The uninvited guests.</p>
 
-            <p><q>Ugh, we still not at the harbour? My heart’s about to damn well burst, girl! I’m gonna drop dead right
+            <p><q rend="PRE lsquo POST rsquo">Ugh, we still not at the harbour? My heart’s about to damn well burst, girl! I’m gonna drop dead right
                     here!</q></p>
 
             <p>One of the men tilted his neck to look at me.</p>
 
-            <p><q>You know damn well you aren’t! If you’re gonna live as long as you have, you should try to have the
+            <p><q rend="PRE lsquo POST rsquo">You know damn well you aren’t! If you’re gonna live as long as you have, you should try to have the
                     courtesy to scrape together a century or two’s worth of wisdom! Or if you can’t do that, at least
                     just shut up and run!</q></p>
 
-            <p><q>Hey now, hey now! If I’m ever gonna put a sock in it, it’ll be when I go meet the Buddha! You could
+            <p><q rend="PRE lsquo POST rsquo">Hey now, hey now! If I’m ever gonna put a sock in it, it’ll be when I go meet the Buddha! You could
                     cut my
                     head off right now and my mouth would still be chatterin’!</q></p>
 
-            <p><q>Like hell it would, because I’d tie it shut myself! With a good metre or two of wire!</q></p>
+            <p><q rend="PRE lsquo POST rsquo">Like hell it would, because I’d tie it shut myself! With a good metre or two of wire!</q></p>
 
             <p>How many dozens of times had he made some dumb immortality gag? It had gone beyond getting on my nerves.
                 He
@@ -95,9 +96,9 @@
             <p>Even in this day and age, when immortality was hardly a rarity, he was still making me listen to his
                 nonsense. And what was he doing talking about meeting the Buddha anyway, when he was a Jew?</p>
 
-            <p><q>Just shut up and keep moving!</q></p>
+            <p><q rend="PRE lsquo POST rsquo">Just shut up and keep moving!</q></p>
 
-            <p><q>…Understood.</q> The other man nodded. His partner skidded as he rounded a corner, almost toppling,
+            <p><q rend="PRE lsquo POST rsquo">…Understood.</q> The other man nodded. His partner skidded as he rounded a corner, almost toppling,
                 and he
                 reached out to grab his belt, righting him as naturally as if he were taking hold of a jib sheet.</p>
 
@@ -107,7 +108,7 @@
                 town’s artificial landscapes: the scent of real sea breezes and real shafts of sunlight, carved deep
                 into his soul.</p>
 
-            <p><q>Understood. I’m counting on you, Captain.</q></p>
+            <p><q rend="PRE lsquo POST rsquo">Understood. I’m counting on you, Captain.</q></p>
 
             <p>His response was silence.</p>
 
@@ -120,6 +121,7 @@
 
             <p>And besides, I couldn’t deny that I had found something unexpectedly endearing in the twin grey flames
                 burning beneath his chiselled brow.</p>
+            </div>
         </body>
     </text>
 </TEI>
