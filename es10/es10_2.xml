@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    studente: Lorenzo Simoni
+    matricola: 549507
+    corso: codifica testi 2019-20
+
+    codificare usando gli opportuni elementi TEI una cartolina
+-->
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thinking of you</title>
+                <respStmt>
+                    <resp>transcription by</resp>
+                    <name xml:id="LS">Lorenzo Simoni</name>
+                </respStmt>
+                
+                <respStmt>
+                    <resp>Ente di Appartenenza</resp>
+                    <name type="comune" xml:id="SP">Comune della Spezia</name>
+                </respStmt>
+                
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>Studenti di Codifica dei Testi, Corso di Laurea Triennale di Informatica Umanistica, Università di Pisa
+                    <date>2020</date>
+                </edition>
+                
+                <respStmt>
+                    <resp>encoding by</resp>
+                    <name xml:id="XY1">Tommaso Castagneto</name>
+                </respStmt>
+                
+                <!-- REFERENTE SCIENTIFICO sempre Nome Cognome, XY2 è sempre Tommaso Castagneto, XZ1 è chi interviene sulla schedatura già fatta per correzioni e aggiunte-->
+                <respStmt>
+                    <resp>Compilatore</resp>
+                    <name xml:id="XY2">Tommaso Castagneto</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Responsabile scientifico</resp>
+                    <name xml:id="GP">Giacomo Paolicchi</name>
+                    <name xml:id="ES">Enrica Salvatori</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Funzionario responsabile</resp>
+                    <name xml:id="MR">Marzia Ratti</name>
+                </respStmt>
+            </editionStmt>
+            
+            <publicationStmt>
+                <publisher>Unipi</publisher>
+                <pubPlace>Pisa</pubPlace>
+                <availability>
+                    <p>Available under licence only</p>
+                </availability>
+                <date when="2020">2020</date>
+                <distributor>LabCD</distributor>
+                <address>
+                    <addrLine>Corso di Codifica dei Testi - Università di Pisa</addrLine>
+                    <addrLine>Pisa</addrLine>
+                </address>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note>Didascalie in inglese, non prodotta in Italia</note>
+            </notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title type="custom" resp="#ES">[Thinking of you]</title>
+                    <author></author>
+                    <pubPlace>Sconosciuto</pubPlace>
+                    <date>1918</date>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Italia</country>
+                        <settlement>La Spezia (SP)</settlement>
+                        <repository>Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                        <idno>7694_002_001/002</idno>
+                    </msIdentifier>
+                    
+                    <msContents>
+                        <summary>Cartolina Artistica</summary>
+                        <textLang>Italiano</textLang>
+                    </msContents>
+                    
+                    
+                    
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Cartolina</objectType>
+                                    <material>Carta</material>
+                                    <dimensions unit="cm">
+                                        <height>9</height>
+                                        <width>14</width>
+                                    </dimensions>
+                                    <stamp>francobollo - Regno d'Italia</stamp>
+                                </support>
+                                
+                                <condition>Buono</condition>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+            
+                    
+                </msDesc>
+                
+                <listPerson>
+                    
+                   
+                    <person xml:id="GC">
+                        <persName>
+                            <forename>Giovanni</forename>
+                            <surname>Coliola </surname>
+                        </persName>
+                        <sex>M</sex>
+                        <occupation n="1">[maggiore]</occupation>
+                        <note></note>
+                    </person>
+                    <person xml:id="OT">
+                        <persName>
+                            <forename>Oliva</forename>
+                            <surname>Turtura</surname>
+                        </persName>
+                        <sex>F</sex>
+                        <note></note>
+                    </person>
+                </listPerson>
+                
+                <listPlace>
+                    <place xml:id="RV">
+                        <placeName>Ravenna</placeName>
+                        <settlement type="località">città</settlement>
+                        <district type="comune">Ravenna</district>
+                        <district type="provincia">RV</district>
+                        <country key="N">IT</country>
+                        <note>...</note>
+                    </place>
+                </listPlace>
+                
+                <listOrg>
+                    <org xml:id="N3">
+                        <orgName type="N"></orgName>
+                        <desc>...</desc>
+                    </org>
+                </listOrg>
+                
+                
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#GC"/>
+                    <date type="postage" when="1918-12-29">1918/12/29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="OT"/>
+                    <placeName ref="RV"/>
+                </correspAction>
+            </correspDesc>
+            
+            <textClass>
+                <keywords>
+                    <term>Cartolina </term>
+                    <term>Cartolina Artistica </term>
+                    <term>Donna</term>
+                </keywords>
+            </textClass>
+            
+            <langUsage>
+                <language ident="it-IT">italiano</language>
+            </langUsage>
+        </profileDesc>
+        
+    </teiHeader>
+    
+    <!-- DEFINIZIONE -->
+    <text type="cartolina" xml:id="TOY">
+        <!-- TRASCRIZIONE -->
+        <body>
+            <div type="fronte">
+                <figure>
+                    <graphic url="images/7694_002R.jpg" />
+                    <figDesc>Donna appoggiata su dei cuscini che guarda l'osservatore</figDesc>
+                    <head>Thiking of you</head>
+                </figure>
+            </div>
+            <div facs="..." type="retro">
+                <div type="message">
+                    <p>1918</p>
+                    <p>Per auguri vivissi</p>
+                    <p>mi a tutta la famiglia</p> 
+                    <signed>Unclear</signed>
+                    
+                </div>
+                <div type="destination">
+                    <p>
+                        <stamp type="postmark"> 
+                            <mentioned>data del 1918/12/29</mentioned>
+                            <date when="1918-12-29">1918/12/29</date>
+                        </stamp>
+                        <stamp type="postage">francobollo da 5 centesimi del Regno d'Italia</stamp>
+                    </p>
+                    <p>
+                        <address>
+                            <addrLine>Signorina</addrLine>
+                            <addrLine><persName ref="#OT">Olivia Turtura </persName></addrLine>
+                            <addrLine>Via G. Rossi 53</addrLine>
+                            <addrLine> <placeName ref="#RV">Ravenna</placeName></addrLine>
+                        </address>
+                    </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

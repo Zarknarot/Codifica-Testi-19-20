@@ -3,6 +3,12 @@
     studente: Lorenzo Simoni
     matricola: 549507
     corso: codifica testi 2019-20
+
+    Marcare un testo plain text di circa 3000 caratteri a
+    piacere.
+
+    Utilizzare puntatori, note, lista, glossario marcare nomi, rs,
+    term.
 -->
 <!DOCTYPE TEI SYSTEM "tei_all.dtd">
 

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    studente: Lorenzo Simoni
+    matricola: 549507
+    corso: codifica testi 2019-20
+
+    codificare usando gli opportuni elementi TEI un articolo di rivista
+-->
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI>
+    <teiHeader xml:lang="it">
+        <fileDesc>
+            <titleStmt>
+                <title>NieR: le differenze tra Replicant e Gestalt, in attesa della riedizione</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>L. Simoni</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <date>2020-05-02</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <analytic>
+                        <author>Antonello "Kirito" Bello</author>
+                        <title level="a">NieR: le differenze tra Replicant e Gestalt, in attesa della riedizione</title>
+                        <date>2020-04-02</date>
+                    </analytic>
+                    <monogr>
+                        <author>Domenico Panebianco</author>
+                        <author>Simone De Marzo</author>
+                        <editor>HIDEDESIGN S.n.c.</editor>
+                        <title level="j">Everyeye.it</title>
+                        <imprint>
+                            <pubPlace>ITALIA</pubPlace>
+                            <publisher><ref target="https://www.everyeye.it/">Everyeye.it</ref></publisher>
+                            <date>2001-2020</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <text xml:lang="it">
+        <front>
+            <titlePage>
+                <docAuthor>Antonello "Kirito" Bello</docAuthor>
+                <docTitle>
+                    <titlePart type="main">NieR: le differenze tra Replicant e Gestalt, in attesa della riedizione</titlePart>
+                </docTitle>
+                <docEdition>1st edition</docEdition>
+                <docImprint>
+                    <pubPlace>ITALIA</pubPlace>
+                    <publisher><ref target="https://www.everyeye.it/">Everyeye.it</ref></publisher>
+                    <date>2020-04-02</date>
+                </docImprint>
+            </titlePage>
+        </front>
+
+        <body>
+            <head rend="bold">NieR Replicant vs Gestalt</head>
+
+            <div n="1">
+                <p>
+                    È risaputo che Yoko Taro si sia definitivamente guadagnato il proprio posto nell'Olimpo degli sviluppatori nipponici grazie a <hi rend="bold">NieR: Automata</hi>, un adrenalinico e galvanizzante action RPG che metteva in evidenza il sottile confine tra la genialità e la follia dell'autore (per tutti i dettagli consultate la nostra <ref target="https://www.everyeye.it/articoli/recensione-nier-automata-32651.html">recensione di NieR: Automata</ref>), ma la sua leggenda ha origini ben più antiche. In attività sin dalla prima metà degli anni '90, il game director ha infatti cominciato a far parlare di sé a partire dal lontano 2003, quando l'ormai defunta software house Cavia pubblicò <hi rend="bold">Drakengard</hi>, un action RPG che mescolava elementi tipici da hack'n'slash, combattimenti aerei e tutta una serie di meccaniche che di lì a poco sarebbero diventate i pilastri di una saga piuttosto famosa in tutto il globo.
+                </p>
+
+                <p>
+                    Quello che non tutti sanno, invece, è che il <hi rend="bold">NieR</hi> originale era uno spin-off della serie sopramenzionata, poiché esplorava le conseguenze degli eventi narrati dal quinto ed ultimo finale del primo Drakengard. In occasione del decimo anniversario del prodotto, Square Enix ha annunciato a sorpresa che il titolo di Yoko Taro dal grande potenziale inespresso godrà molto presto di una riedizione per PS4, Xbox One e PC. La versione riesumata, tuttavia, non sarà quella che abbiamo accolto anche in Occidente un decennio fa, bensì la sua gemella, che a suo tempo rimase purtroppo confinata nel paese del Sol Levante. In attesa che il publisher divulghi maggiori informazioni sulla nuova edizione gioco, affidata al team di Toylogic, proviamo innanzitutto a fare chiarezza sulle lievi differenze riscontrabili tra <hi rend="bold">NieR Gestalt</hi> e <hi rend="bold">NieR Replicant</hi>.
+                </p>
+            </div>
+
+            <head rend="bold">Due protagonisti, un unico obiettivo</head>
+
+            <div n="2">
+                <p>
+                    Annunciato nel mese di maggio 2009, attraverso le pagine di PlayStation Official Magazine, <hi rend="bold">NieR incuriosì immediatamente il pubblico</hi> e i fan degli action RPG poiché prometteva un sistema di combattimento molto simile a quello della serie Devil May Cry e un'atmosfera altrettanto sanguinosa: allo scopo di salvare la figlia affetta da una malattia apparentemente incurabile e per giunta degenerativa, un uomo di mezza età - chiamato appunto Nier - avrebbe cercato in lungo e in largo una possibile cura, affrontando durante il tragitto le orripilanti creature note come Shade.
+                </p>
+                
+                <p>
+                    Nei mesi successivi, tuttavia, il titolo dedicato al "vecchio" Nier cambiò nome in NieR Gestalt e <hi rend="bold">divenne un'esclusiva per Xbox 360</hi>; la storica rivale PlayStation 3, invece, avrebbe accolto una versione chiamata NieR Replicant, il cui protagonista non sarebbe più stato il saggio padre della piccola Yonah, bensì il suo devoto fratello maggiore.
+                </p>
+
+                <p>
+                    Ancora oggi non sono perfettamente chiare le ragioni che spinsero Square Enix e Cavia a confezionare <hi rend="bold">due diverse versioni del prodotto</hi>, anche perché, fatta eccezione per il design e l'età del protagonista, nonché il legame di parentela con la stessa Yonah, senza dimenticare una manciata di conversazioni intrattenute con gli altri co-protagonisti della vicenda, queste risultavano pressoché identiche, in quanto condividevano la stessa storia e le medesime ambientazioni. Leggende metropolitane, però, suggeriscono che la netta "scissione" vada imputata alla volontà del publisher di <hi rend="bold">andare incontro alle esigenze di due target da sempre ben distinti</hi>: quello occidentale, che secondo le previsioni di Square Enix avrebbe preferito il padre di famiglia maturo e fisicamente imponente della versione per Xbox 360, e quello orientale, che forse si sarebbe immedesimato maggiormente nella figura esile del Nier giovane, inesperto e riconducibile alla tipica ideologia del protagonista di anime, manga e romanzi giapponesi proposto dall'edizione PS3.
+                </p>
+                
+                <p>
+                    Non a caso, mentre in Giappone le due versioni sono state pubblicate simultaneamente il 22 aprile 2010, solo NieR Gestalt è approdato in Europa e nelle Americhe, nelle quali ha rinunciato al suffisso "Gestalt" in cambio di un'edizione PlayStation 3 pensata appositamente per i mercati occidentali, in barba a tutti quei giocatori che avrebbero preferito impersonare il Nier ragazzo o comunque entrambe le versioni del personaggio.
+                </p>
+            </div>
+
+            <head rend="bold">Gestalt e Replicant - Spoiler</head>
+
+            <div n="3">
+                <p>
+                    Nell'affascinante e controverso universo creato da Yoko Taro, i termini utilizzati per distinguere le due versioni del gioco hanno dei significati alquanto particolari e, in maniera tutt'altro che casuale, si riferiscono simbolicamente ai due volti della stessa moneta. Secondo quanto raccontato nel gioco, quando una mortale malattia contagiosa nota come "sindrome da clorazione bianca" minacciava l'estinzione dell'umanità, il Progetto Gestalt permise di separare l'anima umana dal corpo, affinché la prima sopravvivesse al morbo e potesse tornare al proprio posto una volta terminata l'emergenza. Tuttavia, a causa di un malfunzionamento della tecnologia utilizzata per compiere la delicata scissione, i gusci vuoti (Replicant) degli umani passati alla forma Gestalt svilupparono una propria coscienza e si rifiutarono di essere trattati alla stregua di contenitori. Di conseguenza, mentre i Replicant continuarono indisturbati la loro esistenza, i Gestalt persero i propri corpi e col tempo si tramutarono nelle ostili e mostruose creature note come Shade.
+                </p>
+            </div>
+
+            <head rend="bold">NieR Replicant ver.1.22474487139</head>
+            
+            <div n="4">
+                <p>
+                    Mettendo da parte delle differenze narrative effettivamente minime e dettate perlopiù dall'indole, dall'età e dalla mancanza di esperienza del protagonista che all'epoca non abbiamo potuto impersonare (sarà infatti interessante scoprire, ad esempio, se e come la presenza di un eroe più giovane inciderà sulla relazione sentimentale fra Nier e la turbolenta Kainé), sono proprio le finalità della stessa Square Enix ad aver suscitato la nostra curiosità. Incalzato dinanzi ai microfoni di Famitsu e Games Talk, il producer Yosuke Saito ha infatti rivelato che il gioco non sarà un remake o una remastered, bensì una versione aggiornata dell'originale. Saito si è addirittura sbilanciato asserendo che, grazie ai molteplici elementi inediti, <hi rend="bold">NieR Replicant ver.1.22474487139</hi> (il titolo ufficiale della riedizione) apparirà "fresco e nuovo" persino a chiunque abbia già vissuto l'avventura del giovane Nier.
+                </p>
+                
+                <p>
+                    Stando a quanto dichiarato dal producer, lo sviluppo del titolo è stato affidato al team Toylogic, che in passato ha contribuito alla versione per Nintendo 3DS di <ref target="https://www.everyeye.it/giochi/dragon-quest-xi/">Dragon Quest XI: Echi di un'Era Perduta</ref>, ma persino Takahisa Taura di PlatinumGames, senior game designer di NieR: Automata, starebbe partecipando alla realizzazione. La sua presenza, quindi, potrebbe suggerire l'intenzione di svecchiare e perfezionare il grezzo sistema di combattimento del NieR originale e avvicinarlo il più possibile ai frenetici fasti del suo illustre successore.
+                </p>
+                
+                <p>
+                    In base a quanto rivelato, NieR Replicant ver.1.22474487139 includerà anche dei nuovi personaggi, sarà interamente (ri)doppiato e addirittura vedrà Yui Ishikawa e Natsuki Hanae - rispettivamente <hi rend="bold">doppiatori di 2B e 9S in NieR: Automata</hi> - ricoprire dei piccoli ruoli non meglio specificati, che immediatamente hanno spinto alcuni fan a ipotizzare qualche cameo dei suddetti YoRHa. Del resto, quando è stato interrogato sulla possibilità che il gioco includa persino dei nuovi finali, atti magari a creare o rafforzare dei legami narrativi col suo "sequel indiretto", il producer non ha confermato né escluso tale eventualità, ragion per cui è lecito aspettarsi che ulteriori chiarimenti vengano forniti durante i mesi a venire.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
